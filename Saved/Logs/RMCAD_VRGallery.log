@@ -742,3 +742,1056 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.25-22.13.59:886][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2020.08.25-22.13.59:944][692]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2020.08.25-22.15.03:095][157]LogEditorViewport: Clicking Background
+[2020.08.25-22.19.07:574][274]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VR_Gallery/VR_Gallery.VR_Gallery
+[2020.08.25-22.19.07:583][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.25-22.19.07:585][274]Cmd: MAP LOAD FILE="../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/VR_Gallery.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.25-22.19.07:585][274]LightingResults: New page: Lighting Build
+[2020.08.25-22.19.07:585][274]LoadErrors: New page: Loading map: VR_Gallery.umap
+[2020.08.25-22.19.07:609][274]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.19.07:609][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.19.07:609][274]MapCheck: New page: Map Check
+[2020.08.25-22.19.07:609][274]LightingResults: New page: Lighting Build
+[2020.08.25-22.19.07:617][274]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC6907F400), frame # 121274
+[2020.08.25-22.19.07:617][274]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC3EA99300), frame # 121274
+[2020.08.25-22.19.07:618][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.08.25-22.19.07:628][274]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.25-22.19.07:628][274]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.19.07:628][274]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC032B0E00), frame # 121274
+[2020.08.25-22.19.07:645][274]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC032B82C0), frame # 121274
+[2020.08.25-22.19.07:656][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.25-22.19.07:688][274]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.25-22.19.07:688][274]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2020.08.25-22.19.07:688][274]LogFileHelpers: Loading map 'VR_Gallery' took 0.103
+[2020.08.25-22.19.23:470][ 82]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Commands.BP_Text_Commands
+[2020.08.25-22.19.24:251][ 82]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.08.25-22.19.26:348][ 82]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.25-22.19.27:188][ 83]LogSlate: Took 0.032134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.25-22.19.53:551][982]BlueprintLog: New page: Compile BP_Text_Commands
+[2020.08.25-22.19.53:641][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.08.25-22.19.53:802][982]LogSlate: Took 0.018028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.25-22.19.55:420][ 40]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_Commands15D7FC8848E6F41FD074EAA9E6D07FEA.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_Commands.uasset'
+[2020.08.25-22.19.55:460][ 40]AssetCheck: New page: Asset Save: BP_Text_Commands
+[2020.08.25-22.19.55:460][ 40]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Commands.BP_Text_Commands
+[2020.08.25-22.20.18:505][601]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.20.18:549][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.20.18:549][601]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:20:18 AM)
+[2020.08.25-22.20.18:579][601]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.20.18:599][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019144s)
+[2020.08.25-22.20.18:599][601]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.20.18:600][601]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC767BFE00), frame # 128601
+[2020.08.25-22.20.18:600][601]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC071C6480), frame # 128601
+[2020.08.25-22.20.18:600][601]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2020.08.25-22.20.18:600][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.020457s)
+[2020.08.25-22.20.18:619][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.08.25-22.20.18:620][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.20.18:620][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.20.18:620][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.20.18:620][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.20.18:620][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.20.18:620][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.20.18:620][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.20.18:620][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.20.18:621][601]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.20.18:621][601]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.20.18:624][601]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.20.18:625][601]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.20.18:654][601]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.20.18:655][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.20.18:655][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.20.18:655][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.20.18:655][601]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.20.18:666][601]LogInit: FAudioDevice initialized.
+[2020.08.25-22.20.18:671][601]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.20.18:674][601]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.20.18
+[2020.08.25-22.20.18:674][601]LogWorld: Bringing up level for play took: 0.002074
+[2020.08.25-22.20.18:674][601]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.08.25-22.20.18:678][601]PIE: Server logged in
+[2020.08.25-22.20.18:678][601]PIE: Play in editor total start time 0.157 seconds.
+[2020.08.25-22.20.28:053][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.20.28:053][711]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.20.28:054][711]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.20.28:054][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.20.28:065][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.20.28:068][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.20.28:102][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.20.28:103][711]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC071C6480), frame # 129711
+[2020.08.25-22.20.28:103][711]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC767BFE00), frame # 129711
+[2020.08.25-22.20.28:105][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.08.25-22.20.28:151][712]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.08.25-22.21.03:085][488]BlueprintLog: New page: Compile BP_Text_Commands
+[2020.08.25-22.21.03:131][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.08.25-22.21.03:826][542]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_CommandsB9BACB1F44410476BB33AFAE232E3892.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_Commands.uasset'
+[2020.08.25-22.21.03:860][542]AssetCheck: New page: Asset Save: BP_Text_Commands
+[2020.08.25-22.21.03:860][542]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Commands.BP_Text_Commands
+[2020.08.25-22.21.07:540][921]LogSlate: Window 'BP_Text_Commands' being destroyed
+[2020.08.25-22.21.08:736][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.21.08:754][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.21.08:754][ 51]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:21:08 AM)
+[2020.08.25-22.21.08:778][ 51]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.21.08:785][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006890s)
+[2020.08.25-22.21.08:786][ 51]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.21.08:786][ 51]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC79055400), frame # 134051
+[2020.08.25-22.21.08:787][ 51]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC75E92980), frame # 134051
+[2020.08.25-22.21.08:787][ 51]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2020.08.25-22.21.08:787][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.008333s)
+[2020.08.25-22.21.08:804][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.08.25-22.21.08:805][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.21.08:805][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.21.08:805][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.21.08:805][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.21.08:805][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.21.08:805][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.21.08:805][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.21.08:805][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.21.08:806][ 51]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.21.08:806][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.21.08:808][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.21.08:808][ 51]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.21.08:826][ 51]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.21.08:827][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.21.08:827][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.21.08:827][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.21.08:827][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.21.08:840][ 51]LogInit: FAudioDevice initialized.
+[2020.08.25-22.21.08:851][ 51]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.21.08:854][ 51]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.21.08
+[2020.08.25-22.21.08:854][ 51]LogWorld: Bringing up level for play took: 0.002236
+[2020.08.25-22.21.08:854][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.08.25-22.21.08:857][ 51]PIE: Server logged in
+[2020.08.25-22.21.08:858][ 51]PIE: Play in editor total start time 0.106 seconds.
+[2020.08.25-22.21.17:910][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.21.17:910][132]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.21.17:910][132]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.21.17:911][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.21.17:919][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.21.17:922][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.21.17:939][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.21.17:956][132]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC75E92980), frame # 135132
+[2020.08.25-22.21.17:956][132]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC79055400), frame # 135132
+[2020.08.25-22.21.17:958][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.08.25-22.21.17:995][133]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.08.25-22.21.19:648][326]LogEditorViewport: Clicking on Actor (LMB): BP_Text_Commands_C (BP_Text_Commands)
+[2020.08.25-22.21.32:352][812]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.21.32:371][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.21.32:371][812]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:21:32 AM)
+[2020.08.25-22.21.32:419][812]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.21.32:426][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006605s)
+[2020.08.25-22.21.32:426][812]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.21.32:427][812]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC769E3E00), frame # 136812
+[2020.08.25-22.21.32:427][812]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC93ADEC00), frame # 136812
+[2020.08.25-22.21.32:427][812]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2020.08.25-22.21.32:427][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.007583s)
+[2020.08.25-22.21.32:445][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.08.25-22.21.32:447][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.21.32:447][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.21.32:447][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.21.32:447][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.21.32:447][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.21.32:447][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.21.32:447][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.21.32:447][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.21.32:447][812]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.21.32:447][812]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.21.32:450][812]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.21.32:450][812]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.21.32:469][812]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.21.32:469][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.21.32:470][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.21.32:470][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.21.32:470][812]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.21.32:481][812]LogInit: FAudioDevice initialized.
+[2020.08.25-22.21.32:493][812]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.21.32:496][812]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.21.32
+[2020.08.25-22.21.32:496][812]LogWorld: Bringing up level for play took: 0.002202
+[2020.08.25-22.21.32:496][812]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.08.25-22.21.32:522][812]PIE: Server logged in
+[2020.08.25-22.21.32:522][812]PIE: Play in editor total start time 0.152 seconds.
+[2020.08.25-22.21.39:630][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.21.39:630][658]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.21.39:630][658]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.21.39:631][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.21.39:638][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.21.39:640][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.21.39:672][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.21.39:673][658]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC93ADEC00), frame # 137658
+[2020.08.25-22.21.39:673][658]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC769E3E00), frame # 137658
+[2020.08.25-22.21.39:675][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.08.25-22.21.39:716][659]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.08.25-22.21.42:061][935]LogEditorViewport: Clicking on Actor (LMB): BP_Text_Commands_C (BP_Text_Commands)
+[2020.08.25-22.21.47:218][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.21.47:237][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.21.47:237][545]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:21:47 AM)
+[2020.08.25-22.21.47:269][545]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.21.47:275][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006307s)
+[2020.08.25-22.21.47:276][545]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.21.47:276][545]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC93D1AC00), frame # 138545
+[2020.08.25-22.21.47:276][545]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC032BA700), frame # 138545
+[2020.08.25-22.21.47:276][545]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2020.08.25-22.21.47:276][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.007355s)
+[2020.08.25-22.21.47:293][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.08.25-22.21.47:294][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.21.47:294][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.21.47:294][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.21.47:294][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.21.47:294][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.21.47:294][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.21.47:295][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.21.47:295][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.21.47:295][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.21.47:295][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.21.47:297][545]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.21.47:297][545]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.21.47:315][545]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.21.47:315][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.21.47:315][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.21.47:315][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.21.47:316][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.21.47:328][545]LogInit: FAudioDevice initialized.
+[2020.08.25-22.21.47:334][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.21.47:337][545]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.21.47
+[2020.08.25-22.21.47:337][545]LogWorld: Bringing up level for play took: 0.002648
+[2020.08.25-22.21.47:337][545]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.08.25-22.21.47:341][545]PIE: Server logged in
+[2020.08.25-22.21.47:342][545]PIE: Play in editor total start time 0.105 seconds.
+[2020.08.25-22.21.58:570][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.21.58:570][885]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.21.58:570][885]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.21.58:571][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.21.58:577][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.21.58:579][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.21.58:611][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.21.58:612][885]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC032BA700), frame # 139885
+[2020.08.25-22.21.58:612][885]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC93D1AC00), frame # 139885
+[2020.08.25-22.21.58:613][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.08.25-22.21.58:655][886]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.08.25-22.22.06:890][826]BlueprintLog: New page: Compile BP_Text_Commands
+[2020.08.25-22.22.06:926][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.08.25-22.22.07:556][885]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_Commands0744883B43C364D707472EB1DEE86BB2.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_Commands.uasset'
+[2020.08.25-22.22.07:570][885]AssetCheck: New page: Asset Save: BP_Text_Commands
+[2020.08.25-22.22.07:570][885]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Commands.BP_Text_Commands
+[2020.08.25-22.22.15:078][750]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_DigitalExistence.BP_Text_DigitalExistence
+[2020.08.25-22.22.26:997][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.22.27:016][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.22.27:016][ 60]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:22:27 AM)
+[2020.08.25-22.22.27:016][ 60]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.22.27:023][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007492s)
+[2020.08.25-22.22.27:024][ 60]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.22.27:024][ 60]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BCCCD91E00), frame # 143060
+[2020.08.25-22.22.27:024][ 60]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BCCCDA2AC0), frame # 143060
+[2020.08.25-22.22.27:025][ 60]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2020.08.25-22.22.27:025][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.008669s)
+[2020.08.25-22.22.27:047][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.08.25-22.22.27:048][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.22.27:048][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.22.27:048][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.22.27:048][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.22.27:048][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.22.27:048][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.22.27:049][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.22.27:049][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.22.27:049][ 60]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.22.27:049][ 60]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.22.27:052][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.22.27:052][ 60]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.22.27:078][ 60]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.22.27:078][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.22.27:078][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.22.27:078][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.22.27:078][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.22.27:090][ 60]LogInit: FAudioDevice initialized.
+[2020.08.25-22.22.27:095][ 60]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.22.27:099][ 60]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.22.27
+[2020.08.25-22.22.27:099][ 60]LogWorld: Bringing up level for play took: 0.002374
+[2020.08.25-22.22.27:099][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.08.25-22.22.27:102][ 60]PIE: Server logged in
+[2020.08.25-22.22.27:103][ 60]PIE: Play in editor total start time 0.089 seconds.
+[2020.08.25-22.22.32:790][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.22.32:790][734]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.22.32:790][734]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.22.32:791][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.22.32:805][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.22.32:810][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.22.32:845][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.22.32:845][734]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BCCCDA2AC0), frame # 143734
+[2020.08.25-22.22.32:845][734]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BCCCD91E00), frame # 143734
+[2020.08.25-22.22.32:847][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.08.25-22.22.32:891][735]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.08.25-22.22.37:980][290]BlueprintLog: New page: Compile BP_Text_Commands
+[2020.08.25-22.22.38:017][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.08.25-22.22.38:571][343]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_Commands17A29F8149906CB623D7E2962451B7FA.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_Commands.uasset'
+[2020.08.25-22.22.38:582][343]AssetCheck: New page: Asset Save: BP_Text_Commands
+[2020.08.25-22.22.38:582][343]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Commands.BP_Text_Commands
+[2020.08.25-22.22.40:464][551]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.22.40:485][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.22.40:485][551]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:22:40 AM)
+[2020.08.25-22.22.40:485][551]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.22.40:492][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006430s)
+[2020.08.25-22.22.40:493][551]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.22.40:493][551]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC0E84FE00), frame # 144551
+[2020.08.25-22.22.40:493][551]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BCB5DB7B00), frame # 144551
+[2020.08.25-22.22.40:493][551]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2020.08.25-22.22.40:493][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.007555s)
+[2020.08.25-22.22.40:514][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.08.25-22.22.40:515][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.22.40:515][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.22.40:515][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.22.40:515][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.22.40:515][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.22.40:515][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.22.40:515][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.22.40:515][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.22.40:515][551]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.22.40:515][551]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.22.40:517][551]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.22.40:517][551]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.22.40:536][551]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.22.40:536][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.22.40:536][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.22.40:536][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.22.40:536][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.22.40:548][551]LogInit: FAudioDevice initialized.
+[2020.08.25-22.22.40:555][551]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.22.40:558][551]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.22.40
+[2020.08.25-22.22.40:558][551]LogWorld: Bringing up level for play took: 0.001989
+[2020.08.25-22.22.40:558][551]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.08.25-22.22.40:562][551]PIE: Server logged in
+[2020.08.25-22.22.40:563][551]PIE: Play in editor total start time 0.079 seconds.
+[2020.08.25-22.22.49:140][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.22.49:140][570]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.22.49:140][570]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.22.49:141][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.22.49:148][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.22.49:151][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.22.49:169][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.22.49:183][570]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BCB5DB7B00), frame # 145570
+[2020.08.25-22.22.49:184][570]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC0E84FE00), frame # 145570
+[2020.08.25-22.22.49:186][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.08.25-22.22.49:226][571]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.08.25-22.23.45:117][904]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.23.45:140][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.23.45:140][904]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:23:45 AM)
+[2020.08.25-22.23.45:140][904]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.23.45:148][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007248s)
+[2020.08.25-22.23.45:148][904]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.23.45:148][904]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BCCC61BE00), frame # 151904
+[2020.08.25-22.23.45:148][904]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC032BA840), frame # 151904
+[2020.08.25-22.23.45:149][904]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2020.08.25-22.23.45:149][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.008291s)
+[2020.08.25-22.23.45:171][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.08.25-22.23.45:173][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.23.45:173][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.23.45:173][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.23.45:173][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.23.45:173][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.23.45:173][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.23.45:173][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.23.45:173][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.23.45:173][904]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.23.45:173][904]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.23.45:177][904]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.23.45:177][904]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.23.45:197][904]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.23.45:198][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.23.45:198][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.23.45:198][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.23.45:198][904]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.23.45:210][904]LogInit: FAudioDevice initialized.
+[2020.08.25-22.23.45:218][904]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.23.45:222][904]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.23.45
+[2020.08.25-22.23.45:222][904]LogWorld: Bringing up level for play took: 0.003007
+[2020.08.25-22.23.45:222][904]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.08.25-22.23.45:225][904]PIE: Server logged in
+[2020.08.25-22.23.45:226][904]PIE: Play in editor total start time 0.091 seconds.
+[2020.08.25-22.24.04:240][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.24.04:240][178]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.24.04:240][178]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.24.04:241][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.24.04:251][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.24.04:255][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.24.04:287][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.24.04:288][178]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC032BA840), frame # 154178
+[2020.08.25-22.24.04:288][178]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BCCC61BE00), frame # 154178
+[2020.08.25-22.24.04:290][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.08.25-22.24.04:329][179]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.08.25-22.24.06:174][396]LogEditorViewport: Clicking on Actor (LMB): BP_Text_DigitalExistence_C (BP_Text_DigitalExistence)
+[2020.08.25-22.25.17:661][637]BlueprintLog: New page: Compile BP_Text_DigitalExistence
+[2020.08.25-22.25.17:702][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.08.25-22.25.18:418][704]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_DigitalExistence5845BEAA4BF267D232211893DABA1D55.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_DigitalExistence.uasset'
+[2020.08.25-22.25.18:435][704]AssetCheck: New page: Asset Save: BP_Text_DigitalExistence
+[2020.08.25-22.25.18:435][704]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_DigitalExistence.BP_Text_DigitalExistence
+[2020.08.25-22.25.49:557][216]BlueprintLog: New page: Compile BP_Text_DigitalExistence
+[2020.08.25-22.25.49:595][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.08.25-22.25.50:129][265]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_DigitalExistenceF3C06F134784F3F0AB0FB48CA3A1B690.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_DigitalExistence.uasset'
+[2020.08.25-22.25.50:140][265]AssetCheck: New page: Asset Save: BP_Text_DigitalExistence
+[2020.08.25-22.25.50:140][265]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_DigitalExistence.BP_Text_DigitalExistence
+[2020.08.25-22.25.51:738][423]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.25.51:758][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.25.51:758][423]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:25:51 AM)
+[2020.08.25-22.25.51:789][423]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.25.51:796][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006941s)
+[2020.08.25-22.25.51:797][423]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.25.51:797][423]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BCCCCB0400), frame # 166423
+[2020.08.25-22.25.51:797][423]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC07155BC0), frame # 166423
+[2020.08.25-22.25.51:797][423]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2020.08.25-22.25.51:797][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.008071s)
+[2020.08.25-22.25.51:817][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.08.25-22.25.51:818][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.25.51:818][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.25.51:818][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.25.51:818][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.25.51:818][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.25.51:818][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.25.51:818][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.25.51:818][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.25.51:819][423]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.25.51:819][423]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.25.51:821][423]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.25.51:821][423]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.25.51:844][423]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.25.51:844][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.25.51:844][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.25.51:844][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.25.51:844][423]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.25.51:855][423]LogInit: FAudioDevice initialized.
+[2020.08.25-22.25.51:866][423]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.25.51:869][423]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.25.51
+[2020.08.25-22.25.51:870][423]LogWorld: Bringing up level for play took: 0.002291
+[2020.08.25-22.25.51:870][423]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.08.25-22.25.51:873][423]PIE: Server logged in
+[2020.08.25-22.25.51:874][423]PIE: Play in editor total start time 0.117 seconds.
+[2020.08.25-22.26.09:160][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.26.09:160][489]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.26.09:160][489]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.26.09:160][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.26.09:174][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.26.09:178][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.26.09:210][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.26.09:211][489]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC07155BC0), frame # 168489
+[2020.08.25-22.26.09:211][489]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BCCCCB0400), frame # 168489
+[2020.08.25-22.26.09:213][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.08.25-22.26.09:255][490]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.08.25-22.26.20:097][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.08.25-22.26.51:316][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.08.25-22.26.51:329][146]LogMetaData: Removing '/Game/VR_Gallery/BluePrints/BP_Text_StateEntitlement.SKEL_BP_Text_StateEntitlement_C' ref from Metadata '/Game/VR_Gallery/BluePrints/BP_Text_DigitalExistence1.PackageMetaData'
+[2020.08.25-22.26.51:329][146]LogMetaData: Removing '/Game/VR_Gallery/BluePrints/BP_Text_StateEntitlement.BP_Text_StateEntitlement_C' ref from Metadata '/Game/VR_Gallery/BluePrints/BP_Text_DigitalExistence1.PackageMetaData'
+[2020.08.25-22.26.51:405][146]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_StateEntitlementE43A6AA247A9C96C8F36969F1DC96E46.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_StateEntitlement.uasset'
+[2020.08.25-22.26.51:606][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.08.25-22.26.51:634][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.08.25-22.26.51:654][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.25-22.26.51:763][146]AssetCheck: New page: Asset Save: BP_Text_StateEntitlement
+[2020.08.25-22.26.51:763][146]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_StateEntitlement.BP_Text_StateEntitlement
+[2020.08.25-22.27.08:980][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.08.25-22.27.08:982][195]LogMetaData: Removing '/Game/VR_Gallery/BluePrints/BP_Text_Tale2Tongues.BP_Text_Tale2Tongues_C' ref from Metadata '/Game/VR_Gallery/BluePrints/BP_Text_StateOfEntitlement.PackageMetaData'
+[2020.08.25-22.27.08:982][195]LogMetaData: Removing '/Game/VR_Gallery/BluePrints/BP_Text_Tale2Tongues.SKEL_BP_Text_Tale2Tongues_C' ref from Metadata '/Game/VR_Gallery/BluePrints/BP_Text_StateOfEntitlement.PackageMetaData'
+[2020.08.25-22.27.09:038][195]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_Tale2TonguesB6E5E7684099B26DE0D52ABEA4DB38AE.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_Tale2Tongues.uasset'
+[2020.08.25-22.27.09:206][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.08.25-22.27.09:238][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.08.25-22.27.09:257][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.25-22.27.09:300][195]AssetCheck: New page: Asset Save: BP_Text_Tale2Tongues
+[2020.08.25-22.27.09:300][195]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Tale2Tongues.BP_Text_Tale2Tongues
+[2020.08.25-22.27.29:857][529]LogEditorViewport: Clicking on Actor (LMB): BP_Text_DigitalExistence_C (BP_Text_DigitalExistence)
+[2020.08.25-22.27.36:714][338]LogEditorViewport: Clicking on Actor (LMB): BP_Text_StateEntitlement_C (BP_Text_StateEntitlement)
+[2020.08.25-22.28.01:575][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_StateEntitlement.BP_Text_StateEntitlement
+[2020.08.25-22.28.14:103][591]BlueprintLog: New page: Compile BP_Text_StateEntitlement
+[2020.08.25-22.28.14:149][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.08.25-22.28.14:673][642]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_StateEntitlementDE2945E045CDA3095871B9949983EC33.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_StateEntitlement.uasset'
+[2020.08.25-22.28.14:688][642]AssetCheck: New page: Asset Save: BP_Text_StateEntitlement
+[2020.08.25-22.28.14:688][642]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_StateEntitlement.BP_Text_StateEntitlement
+[2020.08.25-22.28.33:216][756]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.28.33:234][756]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.25-22.28.33:234][756]LogPlayLevel: [PlayLevel] Compiling VR_Gallery before play...
+[2020.08.25-22.28.33:276][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.08.25-22.28.33:278][756]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2020.08.25-22.28.33:278][756]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:28:33 AM)
+[2020.08.25-22.28.33:298][756]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.28.33:308][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009538s)
+[2020.08.25-22.28.33:309][756]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.28.33:309][756]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BCCD2B2C00), frame # 183756
+[2020.08.25-22.28.33:309][756]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BCB7BA7D80), frame # 183756
+[2020.08.25-22.28.33:309][756]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2020.08.25-22.28.33:309][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.011143s)
+[2020.08.25-22.28.33:332][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.08.25-22.28.33:333][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.28.33:333][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.28.33:333][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.28.33:333][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.28.33:333][756]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.28.33:333][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.28.33:333][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.28.33:333][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.28.33:333][756]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.28.33:333][756]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.28.33:335][756]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.28.33:335][756]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.28.33:356][756]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.28.33:356][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.28.33:356][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.28.33:356][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.28.33:357][756]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.28.33:357][756]LogInit: FAudioDevice initialized.
+[2020.08.25-22.28.33:373][756]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.28.33:376][756]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.28.33
+[2020.08.25-22.28.33:376][756]LogWorld: Bringing up level for play took: 0.002147
+[2020.08.25-22.28.33:376][756]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.08.25-22.28.33:380][756]PIE: Server logged in
+[2020.08.25-22.28.33:380][756]PIE: Play in editor total start time 0.148 seconds.
+[2020.08.25-22.28.59:910][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.28.59:910][927]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.28.59:910][927]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.28.59:910][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.28.59:924][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.28.59:927][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.28.59:948][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.28.59:965][927]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BCB7BA7D80), frame # 186927
+[2020.08.25-22.28.59:965][927]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BCCD2B2C00), frame # 186927
+[2020.08.25-22.28.59:967][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.08.25-22.29.00:010][928]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.08.25-22.29.00:922][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Text_StateEntitlement_C (BP_Text_StateEntitlement)
+[2020.08.25-22.29.19:725][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.08.25-22.29.20:846][242]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.25-22.29.20:999][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.08.25-22.29.21:031][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.08.25-22.29.21:053][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.08.25-22.29.29:018][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.08.25-22.29.48:837][453]LogEditorViewport: Clicking on Actor (LMB): BP_Text_StateEntitlement_C (BP_Text_StateEntitlement)
+[2020.08.25-22.29.50:015][590]LogEditorViewport: Clicking on Actor (LMB): BP_Text_2Tongues_C (BP_Text_2Tongues)
+[2020.08.25-22.29.58:795][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_2Tongues.BP_Text_2Tongues
+[2020.08.25-22.30.11:458][ 43]BlueprintLog: New page: Compile BP_Text_2Tongues
+[2020.08.25-22.30.11:509][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.08.25-22.30.12:117][103]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_2TonguesA1424A6843C8E1781CC221AD9277DB0A.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_2Tongues.uasset'
+[2020.08.25-22.30.12:131][103]AssetCheck: New page: Asset Save: BP_Text_2Tongues
+[2020.08.25-22.30.12:131][103]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_2Tongues.BP_Text_2Tongues
+[2020.08.25-22.30.32:514][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.08.25-22.30.43:174][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.08.25-22.30.43:175][767]LogMetaData: Removing '/Game/VR_Gallery/BluePrints/BP_Text_GetOff.SKEL_BP_Text_GetOff_C' ref from Metadata '/Game/VR_Gallery/BluePrints/BP_Text_2Tongues1.PackageMetaData'
+[2020.08.25-22.30.43:176][767]LogMetaData: Removing '/Game/VR_Gallery/BluePrints/BP_Text_GetOff.BP_Text_GetOff_C' ref from Metadata '/Game/VR_Gallery/BluePrints/BP_Text_2Tongues1.PackageMetaData'
+[2020.08.25-22.30.43:230][767]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_GetOff80C86AA74F94D296A88762BE5800F5A6.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_GetOff.uasset'
+[2020.08.25-22.30.43:405][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.08.25-22.30.43:434][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.08.25-22.30.43:456][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.08.25-22.30.43:503][767]AssetCheck: New page: Asset Save: BP_Text_GetOff
+[2020.08.25-22.30.43:503][767]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_GetOff.BP_Text_GetOff
+[2020.08.25-22.30.44:848][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_GetOff.BP_Text_GetOff
+[2020.08.25-22.30.58:176][415]BlueprintLog: New page: Compile BP_Text_GetOff
+[2020.08.25-22.30.58:218][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.08.25-22.30.58:765][465]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_GetOff074A50604A7EC391F19F4594691247A4.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_GetOff.uasset'
+[2020.08.25-22.30.58:777][465]AssetCheck: New page: Asset Save: BP_Text_GetOff
+[2020.08.25-22.30.58:777][465]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_GetOff.BP_Text_GetOff
+[2020.08.25-22.31.35:929][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.08.25-22.31.36:858][806]LogEditorViewport: Clicking on Actor (LMB): BP_Text_2Tongues_C (BP_Text_2Tongues)
+[2020.08.25-22.31.42:263][417]LogEditorViewport: Clicking on Actor (LMB): BP_Text_GetOff_C (BP_Text_GetOff)
+[2020.08.25-22.32.02:168][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.08.25-22.32.03:583][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_StopResist.BP_Text_StopResist
+[2020.08.25-22.32.13:195][978]BlueprintLog: New page: Compile BP_Text_StopResist
+[2020.08.25-22.32.13:243][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.08.25-22.32.13:818][ 37]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_StopResist667F136A4FBDC7FAC9FDA696E9C74801.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_StopResist.uasset'
+[2020.08.25-22.32.13:837][ 37]AssetCheck: New page: Asset Save: BP_Text_StopResist
+[2020.08.25-22.32.13:837][ 37]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_StopResist.BP_Text_StopResist
+[2020.08.25-22.32.52:393][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.08.25-22.32.53:607][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_TheScream.BP_Text_TheScream
+[2020.08.25-22.33.02:448][579]BlueprintLog: New page: Compile BP_Text_TheScream
+[2020.08.25-22.33.02:496][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.08.25-22.33.02:953][623]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_TheScream66495D1544724731EB285CB4FA058162.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_TheScream.uasset'
+[2020.08.25-22.33.02:965][623]AssetCheck: New page: Asset Save: BP_Text_TheScream
+[2020.08.25-22.33.02:965][623]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_TheScream.BP_Text_TheScream
+[2020.08.25-22.33.09:579][361]LogEditorViewport: Clicking on Actor (LMB): BP_Text_StopResist_C (BP_Text_StopResist)
+[2020.08.25-22.33.11:934][639]LogEditorViewport: Clicking on Actor (LMB): BP_Text_TheScream_C (BP_Text_TheScream)
+[2020.08.25-22.33.16:953][217]LogEditorViewport: Clicking on Actor (LMB): BP_Text_StopResist_C (BP_Text_StopResist)
+[2020.08.25-22.33.21:205][714]LogEditorViewport: Clicking on Actor (LMB): BP_Text_TheScream_C (BP_Text_TheScream)
+[2020.08.25-22.34.08:627][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.08.25-22.34.08:755][615]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/VR_Gallery_Auto1136AB05D45100160A7957D8D769B3929.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/Autosaves/Game/VR_Gallery/VR_Gallery_Auto1.umap'
+[2020.08.25-22.34.08:757][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VR_Gallery/VR_Gallery' took 0.165
+[2020.08.25-22.34.08:757][615]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.165
+[2020.08.25-22.34.49:186][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica06)
+[2020.08.25-22.35.15:945][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.08.25-22.35.18:344][ 91]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_TheyKnowNot.BP_Text_TheyKnowNot
+[2020.08.25-22.35.30:952][516]BlueprintLog: New page: Compile BP_Text_TheyKnowNot
+[2020.08.25-22.35.31:002][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.08.25-22.35.31:490][563]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_TheyKnowNotF800644F41FE4436B2DF998962FD844B.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_TheyKnowNot.uasset'
+[2020.08.25-22.35.31:504][563]AssetCheck: New page: Asset Save: BP_Text_TheyKnowNot
+[2020.08.25-22.35.31:504][563]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_TheyKnowNot.BP_Text_TheyKnowNot
+[2020.08.25-22.35.45:292][115]LogEditorViewport: Clicking on Actor (LMB): BP_Text_TheScream_C (BP_Text_TheScream)
+[2020.08.25-22.35.46:533][260]LogEditorViewport: Clicking on Actor (LMB): BP_Text_TheyKnowNot_C (BP_Text_TheyKnowNot)
+[2020.08.25-22.35.55:940][374]LogEditorViewport: Clicking on Actor (LMB): BP_Text_TheScream_C (BP_Text_TheScream)
+[2020.08.25-22.35.57:638][573]LogEditorViewport: Clicking on Actor (LMB): BP_Text_TheyKnowNot_C (BP_Text_TheyKnowNot)
+[2020.08.25-22.36.05:584][513]LogEditorViewport: Clicking on Actor (LMB): BP_Text_StopResist_C (BP_Text_StopResist)
+[2020.08.25-22.36.07:092][689]LogEditorViewport: Clicking on Actor (LMB): BP_Text_TheScream_C (BP_Text_TheScream)
+[2020.08.25-22.36.16:744][831]LogEditorViewport: Clicking on Actor (LMB): BP_Text_StopResist_C (BP_Text_StopResist)
+[2020.08.25-22.36.23:006][562]LogEditorViewport: Clicking on Actor (LMB): BP_Text_TheyKnowNot_C (BP_Text_TheyKnowNot)
+[2020.08.25-22.36.57:078][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.08.25-22.36.58:885][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_ICantBreathe.BP_Text_ICantBreathe
+[2020.08.25-22.37.08:565][846]BlueprintLog: New page: Compile BP_Text_ICantBreathe
+[2020.08.25-22.37.08:618][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.08.25-22.37.09:077][890]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_ICantBreathe781C3D7A4CECBC4ADE675D9E2E2D7563.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_ICantBreathe.uasset'
+[2020.08.25-22.37.09:090][890]AssetCheck: New page: Asset Save: BP_Text_ICantBreathe
+[2020.08.25-22.37.09:090][890]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_ICantBreathe.BP_Text_ICantBreathe
+[2020.08.25-22.37.25:336][751]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2020.08.25-22.37.27:778][968]LogEditorViewport: Clicking on Actor (LMB): BP_Text_ICantBreathe_C (BP_Text_ICantBreathe)
+[2020.08.25-22.37.51:284][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.08.25-22.37.52:847][895]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Illiterate.BP_Text_Illiterate
+[2020.08.25-22.38.01:007][779]BlueprintLog: New page: Compile BP_Text_Illiterate
+[2020.08.25-22.38.01:068][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.25-22.38.01:614][831]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_IlliterateD887A82C4A5FE55580B85A8F9CB5C94C.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_Illiterate.uasset'
+[2020.08.25-22.38.01:626][831]AssetCheck: New page: Asset Save: BP_Text_Illiterate
+[2020.08.25-22.38.01:626][831]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Illiterate.BP_Text_Illiterate
+[2020.08.25-22.39.02:162][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.08.25-22.39.04:001][946]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Riot.BP_Text_Riot
+[2020.08.25-22.39.11:247][726]BlueprintLog: New page: Compile BP_Text_Riot
+[2020.08.25-22.39.11:306][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.25-22.39.11:866][780]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_RiotD7720C09459E95AEBE08A1A504939300.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_Riot.uasset'
+[2020.08.25-22.39.11:881][780]AssetCheck: New page: Asset Save: BP_Text_Riot
+[2020.08.25-22.39.11:881][780]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_Riot.BP_Text_Riot
+[2020.08.25-22.39.19:911][674]LogEditorViewport: Clicking on Actor (LMB): BP_Text_Illiterate_C (BP_Text_Illiterate)
+[2020.08.25-22.39.21:586][869]LogEditorViewport: Clicking on Actor (LMB): BP_Text_Riot_C (BP_Text_Riot)
+[2020.08.25-22.39.40:953][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.08.25-22.39.50:056][162]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR_Gallery/BluePrints/BP_Text_PersonalJesus.BP_Text_PersonalJesus
+[2020.08.25-22.39.59:683][221]BlueprintLog: New page: Compile BP_Text_PersonalJesus
+[2020.08.25-22.39.59:754][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.08.25-22.40.00:303][274]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/BP_Text_PersonalJesus4F177B324307ECF0400043B9D30F2952.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/BluePrints/BP_Text_PersonalJesus.uasset'
+[2020.08.25-22.40.00:320][274]AssetCheck: New page: Asset Save: BP_Text_PersonalJesus
+[2020.08.25-22.40.00:320][274]LogContentValidation: Display: Validating Blueprint /Game/VR_Gallery/BluePrints/BP_Text_PersonalJesus.BP_Text_PersonalJesus
+[2020.08.25-22.40.17:687][294]LogEditorViewport: Clicking on Actor (LMB): BP_Text_Riot_C (BP_Text_Riot)
+[2020.08.25-22.40.20:273][599]LogEditorViewport: Clicking on Actor (LMB): BP_Text_Illiterate_C (BP_Text_Illiterate)
+[2020.08.25-22.40.21:379][727]LogEditorViewport: Clicking on Actor (LMB): BP_Text_Riot_C (BP_Text_Riot)
+[2020.08.25-22.40.24:847][125]LogEditorViewport: Clicking on Actor (LMB): BP_Text_PersonalJesus_C (BP_Text_PersonalJesus)
+[2020.08.25-22.40.35:885][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.25-22.40.35:950][400]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/VR_Gallery5E7B6BF94203F3C942B34F9DE40B6F44.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/VR_Gallery.umap'
+[2020.08.25-22.40.35:988][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Gallery/VR_Gallery_BuiltData" FILE="../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/VR_Gallery_BuiltData.uasset" SILENT=true
+[2020.08.25-22.40.36:275][400]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/VR_Gallery_BuiltData7805F1C048945F35F6FD4AA94D1222ED.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/VR_Gallery_BuiltData.uasset'
+[2020.08.25-22.40.36:316][400]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.25-22.40.36:316][400]LogContentValidation: Display: Validating World /Game/VR_Gallery/VR_Gallery.VR_Gallery
+[2020.08.25-22.40.36:317][400]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VR_Gallery/VR_Gallery_BuiltData.VR_Gallery_BuiltData
+[2020.08.25-22.40.37:096][474]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.40.37:116][474]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.25-22.40.37:117][474]LogPlayLevel: [PlayLevel] Compiling VR_Gallery before play...
+[2020.08.25-22.40.37:181][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.08.25-22.40.37:182][474]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2020.08.25-22.40.37:182][474]PIE: New page: PIE session: VR_Gallery (Aug 25, 2020, 10:40:37 AM)
+[2020.08.25-22.40.37:219][474]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.40.37:227][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007179s)
+[2020.08.25-22.40.37:228][474]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.40.37:228][474]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC78FBAA00), frame # 262474
+[2020.08.25-22.40.37:228][474]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BD2DAC9580), frame # 262474
+[2020.08.25-22.40.37:228][474]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2020.08.25-22.40.37:228][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/VR_Gallery.VR_Gallery to /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery (0.008667s)
+[2020.08.25-22.40.37:266][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.08.25-22.40.37:266][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.40.37:266][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.40.37:266][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.40.37:266][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.40.37:266][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.40.37:266][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.40.37:266][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.40.37:266][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.40.37:267][474]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.40.37:267][474]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.40.37:271][474]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.40.37:271][474]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.40.37:300][474]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.40.37:300][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.40.37:300][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.40.37:300][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.40.37:301][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.40.37:311][474]LogInit: FAudioDevice initialized.
+[2020.08.25-22.40.37:318][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.40.37:321][474]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.40.37
+[2020.08.25-22.40.37:321][474]LogWorld: Bringing up level for play took: 0.002244
+[2020.08.25-22.40.37:321][474]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.08.25-22.40.37:325][474]PIE: Server logged in
+[2020.08.25-22.40.37:326][474]PIE: Play in editor total start time 0.211 seconds.
+[2020.08.25-22.41.15:160][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.41.15:160][979]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.41.15:160][979]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.41.15:161][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.41.15:183][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.41.15:188][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.41.15:224][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.41.15:240][979]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BD2DAC9580), frame # 266979
+[2020.08.25-22.41.15:240][979]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC78FBAA00), frame # 266979
+[2020.08.25-22.41.15:242][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.08.25-22.41.15:289][980]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.08.25-22.41.21:562][675]LogActorFactory: Actor Factory created Cube
+[2020.08.25-22.41.23:337][876]LogActorFactory: Actor Factory created Cube
+[2020.08.25-22.41.38:319][553]Cmd: TRANSACTION UNDO
+[2020.08.25-22.41.38:319][553]LogEditorTransaction: Undo Scale Actors
+[2020.08.25-22.41.45:093][283]Cmd: TRANSACTION UNDO
+[2020.08.25-22.41.45:094][283]LogEditorTransaction: Undo Scale Actors
+[2020.08.25-22.42.15:178][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica01)
+[2020.08.25-22.42.20:315][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.08.25-22.42.39:072][ 94]Cmd: TRANSACTION UNDO
+[2020.08.25-22.42.39:072][ 94]LogEditorTransaction: Undo Move Actors
+[2020.08.25-22.42.41:241][305]Cmd: DUPLICATE
+[2020.08.25-22.42.41:242][305]Cmd: ACTOR DUPLICATE
+[2020.08.25-22.42.43:159][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica02)
+[2020.08.25-22.42.46:545][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.08.25-22.42.58:425][101]Cmd: DUPLICATE
+[2020.08.25-22.42.58:425][101]Cmd: ACTOR DUPLICATE
+[2020.08.25-22.42.59:179][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica03)
+[2020.08.25-22.43.00:516][333]Cmd: TRANSACTION UNDO
+[2020.08.25-22.43.00:516][333]LogEditorTransaction: Undo Clicking on Actors
+[2020.08.25-22.43.02:556][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica03)
+[2020.08.25-22.43.05:322][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2020.08.25-22.43.05:576][822]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube15)
+[2020.08.25-22.43.30:149][475]Cmd: TRANSACTION UNDO
+[2020.08.25-22.43.30:149][475]LogEditorTransaction: Undo Move Actors
+[2020.08.25-22.43.31:111][541]Cmd: DUPLICATE
+[2020.08.25-22.43.31:111][541]Cmd: ACTOR DUPLICATE
+[2020.08.25-22.43.36:448][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica04)
+[2020.08.25-22.43.39:236][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2020.08.25-22.43.46:169][102]Cmd: DUPLICATE
+[2020.08.25-22.43.46:169][102]Cmd: ACTOR DUPLICATE
+[2020.08.25-22.43.47:863][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica05)
+[2020.08.25-22.43.49:973][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.08.25-22.43.55:342][ 86]Cmd: DUPLICATE
+[2020.08.25-22.43.55:342][ 86]Cmd: ACTOR DUPLICATE
+[2020.08.25-22.43.57:039][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica06)
+[2020.08.25-22.43.59:055][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2020.08.25-22.44.08:983][534]Cmd: DUPLICATE
+[2020.08.25-22.44.08:983][534]Cmd: ACTOR DUPLICATE
+[2020.08.25-22.44.10:677][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica07)
+[2020.08.25-22.44.13:327][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2020.08.25-22.44.18:825][555]Cmd: DUPLICATE
+[2020.08.25-22.44.18:825][555]Cmd: ACTOR DUPLICATE
+[2020.08.25-22.44.27:560][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica08)
+[2020.08.25-22.44.29:945][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2020.08.25-22.44.34:335][173]Cmd: DUPLICATE
+[2020.08.25-22.44.34:335][173]Cmd: ACTOR DUPLICATE
+[2020.08.25-22.44.35:851][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica09)
+[2020.08.25-22.44.38:127][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2020.08.25-22.44.48:875][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica06)
+[2020.08.25-22.44.54:546][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica05)
+[2020.08.25-22.45.00:290][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica04)
+[2020.08.25-22.45.05:680][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Murica03)
+[2020.08.25-22.45.09:286][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.08.25-22.45.21:785][216]MapCheck: New page: Map Check
+[2020.08.25-22.45.21:870][216]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.25-22.45.21:871][216]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.25-22.45.22:052][216]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=false
+[2020.08.25-22.45.22:194][216]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.08.25-22.45.22:194][216]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.08.25-22.45.22:194][216]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.08.25-22.45.22:248][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.08.25-22.45.22:281][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:397][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:399][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:401][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:402][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:403][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:404][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:405][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:407][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.08.25-22.45.22:407][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.08.25-22.45.22:407][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.08.25-22.45.22:407][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.25-22.45.22:407][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:408][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:410][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:411][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:412][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:414][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:415][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:416][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:417][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:419][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:420][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:421][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:422][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:424][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:425][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:426][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:427][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:429][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.22:430][216]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.25-22.45.27:358][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.25-22.45.27:358][216]TextureStreamingBuild: Display: Compiling optional shaders took 5.092 seconds.
+[2020.08.25-22.45.27:447][216]LogLevel: Display: Export Material TexCoord Scales took 0.088 seconds.
+[2020.08.25-22.45.27:468][216]TextureStreamingBuild: Display: Build Texture Streaming took 0.021 seconds.
+[2020.08.25-22.45.27:507][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.08.25-22.45.27:580][216]LightingResults: New page: Lighting Build - Aug 25, 2020, 10:45:27 AM
+[2020.08.25-22.45.28:058][216]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.25-22.45.28:267][216]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.25-22.45.28:353][216]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.25-22.45.32:138][216]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.25-22.45.32:138][216]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18584
+[2020.08.25-22.45.35:154][216]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.25-22.45.35:154][216]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.25-22.45.35:154][216]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.25-22.45.35:154][216]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.25-22.45.35:154][216]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.25-22.45.35:768][216]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.25-22.45.35:769][216]MapCheck: New page: VR_Gallery - Aug 25, 2020, 10:45:35 AM
+[2020.08.25-22.45.35:791][216]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.08.25-22.45.35:853][216]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 84.541ms to complete.
+[2020.08.25-22.45.35:854][216]LogEditorBuildUtils: Build time 0:13
+[2020.08.25-22.45.36:822][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.08.25-22.45.48:925][259]Job is a success!
+[2020.08.25-22.45.49:521][260]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.049s
+[2020.08.25-22.45.49:521][260]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.25-22.45.49:522][260]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2020.08.25-22.45.49:522][260]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.25-22.45.49:522][260]LogVolumetricLightmapImport:          0: 5.6% covering 100.0% of volume
+[2020.08.25-22.45.49:522][260]LogVolumetricLightmapImport:          1: 5.6% covering 1.6% of volume
+[2020.08.25-22.45.49:522][260]LogVolumetricLightmapImport:          2: 88.9% covering 0.4% of volume
+[2020.08.25-22.45.49:522][260]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.25-22.45.49:522][260]LogVolumetricLightmapImport:          VR_Gallery 			 18 bricks 	 100.0% (Persistent Level)
+[2020.08.25-22.45.50:532][260]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.08.25-22.45.50:532][260]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.08.25-22.45.50:532][260]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.08.25-22.45.50:532][260]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.08.25-22.45.51:086][260]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.08.25-22.45.51:086][260]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2020.08.25-22.45.51:086][260]Lightmass on SARK: 10.0 sec total, 1.14 sec importing, 146 ms setup, 477 ms photons, 7.90 sec processing, 0 ms extra exporting [86/86 mappings]. Threads: 55.3 sec total, 29.3 sec processing.
+[2020.08.25-22.45.51:118][260]LogStaticLightingSystem: VR_Gallery_BuiltData storing lightmap data for 86 meshes in 2 LightmapResourceClusters (43.0 Meshes per cluster).
+[2020.08.25-22.45.51:175][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.08.25-22.45.51:273][260]LogStaticLightingSystem: Illumination: 23.2 sec (764 ms encoding lightmaps, 149 ms encoding shadowmaps)
+[2020.08.25-22.45.51:273][260]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.08.25-22.45.51:273][260]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.08.25-22.45.52:143][260]DumpUnbuiltLightIteractions
+[2020.08.25-22.45.52:143][260]Lights with unbuilt interactions: 0
+[2020.08.25-22.45.52:143][260]
+[2020.08.25-22.45.52:143][260]Primitives with unbuilt interactions: 0
+[2020.08.25-22.45.52:234][261]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.25-22.45.52:234][261]MapCheck: New page: VR_Gallery - Aug 25, 2020, 10:45:52 AM
+[2020.08.25-22.45.52:235][261]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.701ms to complete.
+[2020.08.25-22.46.18:609][154]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.18:609][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.19:919][288]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.19:919][288]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.19:919][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.20:830][383]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.20:830][383]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.20:830][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.21:489][449]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.21:489][449]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.21:489][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.22:039][502]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.22:039][502]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.22:039][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.22:529][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.22:529][548]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.22:529][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.22:979][590]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.22:979][590]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.22:979][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.23:429][631]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.23:429][631]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.23:429][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.23:844][671]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.23:844][671]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.23:845][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.24:279][711]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.24:279][711]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.24:279][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.24:672][750]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.24:672][750]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.24:673][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.25:102][792]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.25-22.46.25:102][792]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.25:102][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.27:840][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.08.25-22.46.27:915][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.08.25-22.46.27:977][ 86]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/VR_Gallery6BF2A404498B3034B48C86BB62CF3B9E.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/VR_Gallery.umap'
+[2020.08.25-22.46.28:015][ 86]LogFileHelpers: Saving map 'VR_Gallery' took 0.145
+[2020.08.25-22.46.28:015][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Gallery/VR_Gallery_BuiltData" FILE="../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/VR_Gallery_BuiltData.uasset" SILENT=true
+[2020.08.25-22.46.28:113][ 86]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/VR_Gallery_BuiltData4ACAA450429F03B57AAA23A830C9F244.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/VR_Gallery_BuiltData.uasset'
+[2020.08.25-22.46.28:129][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.25-22.46.28:129][ 86]LogContentValidation: Display: Validating World /Game/VR_Gallery/VR_Gallery.VR_Gallery
+[2020.08.25-22.46.28:129][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VR_Gallery/VR_Gallery_BuiltData.VR_Gallery_BuiltData
+[2020.08.25-22.46.41:210][567]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VR_Gallery/MainMenu_Level.MainMenu_Level
+[2020.08.25-22.46.41:226][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.08.25-22.46.41:231][567]Cmd: MAP LOAD FILE="../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/MainMenu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.25-22.46.41:231][567]LightingResults: New page: Lighting Build
+[2020.08.25-22.46.41:231][567]LoadErrors: New page: Loading map: MainMenu_Level.umap
+[2020.08.25-22.46.41:260][567]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.41:260][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.41:260][567]MapCheck: New page: Map Check
+[2020.08.25-22.46.41:260][567]LightingResults: New page: Lighting Build
+[2020.08.25-22.46.41:296][567]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC032B82C0), frame # 297567
+[2020.08.25-22.46.41:296][567]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC032B0E00), frame # 297567
+[2020.08.25-22.46.41:298][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.08.25-22.46.41:302][567]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.25-22.46.41:302][567]LogAIModule: Creating AISystem for world MainMenu_Level
+[2020.08.25-22.46.41:302][567]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BD618ED800), frame # 297567
+[2020.08.25-22.46.41:302][567]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC04409580), frame # 297567
+[2020.08.25-22.46.41:320][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.25-22.46.41:352][567]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.25-22.46.41:352][567]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2020.08.25-22.46.41:352][567]LogFileHelpers: Loading map 'MainMenu_Level' took 0.122
+[2020.08.25-22.46.42:915][745]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.46.42:938][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.46.42:938][745]PIE: New page: PIE session: MainMenu_Level (Aug 25, 2020, 10:46:42 AM)
+[2020.08.25-22.46.42:938][745]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_MainMenu_Level
+[2020.08.25-22.46.42:938][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000703s)
+[2020.08.25-22.46.42:939][745]LogAIModule: Creating AISystem for world MainMenu_Level
+[2020.08.25-22.46.42:939][745]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC032B3200), frame # 297745
+[2020.08.25-22.46.42:939][745]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC030DBD80), frame # 297745
+[2020.08.25-22.46.42:939][745]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2020.08.25-22.46.42:939][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/MainMenu_Level.MainMenu_Level to /Game/VR_Gallery/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.001666s)
+[2020.08.25-22.46.42:954][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.08.25-22.46.42:956][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.46.42:956][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.46.42:956][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.46.42:956][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.46.42:956][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.46.42:956][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.46.42:956][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.46.42:956][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.46.42:956][745]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.46.42:956][745]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.46.42:960][745]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.46.42:960][745]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.46.42:981][745]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.46.42:981][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.46.42:981][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.46.42:981][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.46.42:982][745]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.46.42:994][745]LogInit: FAudioDevice initialized.
+[2020.08.25-22.46.43:003][745]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.46.43:004][745]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 0) at 2020.08.25-16.46.43
+[2020.08.25-22.46.43:004][745]LogWorld: Bringing up level for play took: 0.000229
+[2020.08.25-22.46.43:005][745]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.08.25-22.46.43:009][745]PIE: Server logged in
+[2020.08.25-22.46.43:010][745]PIE: Play in editor total start time 0.074 seconds.
+[2020.08.25-22.46.52:441][873]LogNet: Browse: /Game/VR_Gallery/VR_Gallery
+[2020.08.25-22.46.52:441][873]LogLoad: LoadMap: /Game/VR_Gallery/VR_Gallery
+[2020.08.25-22.46.52:441][873]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_MainMenu_Level
+[2020.08.25-22.46.52:441][873]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.46.52:441][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.46.52:483][873]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC030DBD80), frame # 298873
+[2020.08.25-22.46.52:483][873]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC032B3200), frame # 298873
+[2020.08.25-22.46.52:484][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.08.25-22.46.52:517][873]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.46.52:517][873]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC04183600), frame # 298873
+[2020.08.25-22.46.52:517][873]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC93C6D1C0), frame # 298873
+[2020.08.25-22.46.52:517][873]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.46.52:523][873]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.46.52
+[2020.08.25-22.46.52:524][873]LogWorld: Bringing up level for play took: 0.005376
+[2020.08.25-22.46.52:525][873]LogLoad: Took 0.085347 seconds to LoadMap(/Game/VR_Gallery/VR_Gallery)
+[2020.08.25-22.47.32:019][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.47.32:019][605]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.47.32:019][605]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.47.32:019][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.47.32:028][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.47.32:032][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.47.32:063][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.47.32:065][605]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC93C6D1C0), frame # 303605
+[2020.08.25-22.47.32:065][605]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC04183600), frame # 303605
+[2020.08.25-22.47.32:068][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.08.25-22.47.32:107][606]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.08.25-22.47.40:909][197]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.25-22.47.40:928][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.25-22.47.40:929][197]PIE: New page: PIE session: MainMenu_Level (Aug 25, 2020, 10:47:40 AM)
+[2020.08.25-22.47.40:968][197]LogPlayLevel: Creating play world package: /Game/VR_Gallery/UEDPIE_0_MainMenu_Level
+[2020.08.25-22.47.40:969][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000845s)
+[2020.08.25-22.47.40:970][197]LogAIModule: Creating AISystem for world MainMenu_Level
+[2020.08.25-22.47.40:970][197]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BD10B77E00), frame # 304197
+[2020.08.25-22.47.40:970][197]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC0440A840), frame # 304197
+[2020.08.25-22.47.40:970][197]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2020.08.25-22.47.40:970][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_Gallery/MainMenu_Level.MainMenu_Level to /Game/VR_Gallery/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.001943s)
+[2020.08.25-22.47.40:984][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.08.25-22.47.40:986][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.25-22.47.40:986][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.25-22.47.40:986][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.25-22.47.40:986][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.25-22.47.40:986][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.25-22.47.40:986][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.25-22.47.40:986][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.25-22.47.40:986][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.25-22.47.40:987][197]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.25-22.47.40:987][197]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.25-22.47.40:989][197]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.25-22.47.40:990][197]LogAudioMixer: Display: 1: FrontRight
+[2020.08.25-22.47.41:009][197]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.25-22.47.41:010][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.25-22.47.41:010][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.25-22.47.41:010][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.25-22.47.41:010][197]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.25-22.47.41:023][197]LogInit: FAudioDevice initialized.
+[2020.08.25-22.47.41:036][197]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.47.41:036][197]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 0) at 2020.08.25-16.47.41
+[2020.08.25-22.47.41:037][197]LogWorld: Bringing up level for play took: 0.000346
+[2020.08.25-22.47.41:037][197]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.08.25-22.47.41:041][197]PIE: Server logged in
+[2020.08.25-22.47.41:042][197]PIE: Play in editor total start time 0.114 seconds.
+[2020.08.25-22.47.57:749][832]Cmd: LevelEditor.ToggleImmersive
+[2020.08.25-22.48.00:627][161]LogNet: Browse: /Game/VR_Gallery/VR_Gallery
+[2020.08.25-22.48.00:628][161]LogLoad: LoadMap: /Game/VR_Gallery/VR_Gallery
+[2020.08.25-22.48.00:628][161]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_MainMenu_Level
+[2020.08.25-22.48.00:628][161]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.48.00:628][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.48.00:665][161]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC0440A840), frame # 306161
+[2020.08.25-22.48.00:665][161]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BD10B77E00), frame # 306161
+[2020.08.25-22.48.00:667][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.08.25-22.48.00:692][161]LogAIModule: Creating AISystem for world VR_Gallery
+[2020.08.25-22.48.00:692][161]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BC09D4AC00), frame # 306161
+[2020.08.25-22.48.00:692][161]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BC93C66AC0), frame # 306161
+[2020.08.25-22.48.00:693][161]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.25-22.48.00:699][161]LogWorld: Bringing World /Game/VR_Gallery/UEDPIE_0_VR_Gallery.VR_Gallery up for play (max tick rate 0) at 2020.08.25-16.48.00
+[2020.08.25-22.48.00:699][161]LogWorld: Bringing up level for play took: 0.006104
+[2020.08.25-22.48.00:701][161]LogLoad: Took 0.074266 seconds to LoadMap(/Game/VR_Gallery/VR_Gallery)
+[2020.08.25-22.52.52:800][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.52.52:800][182]LogWorld: BeginTearingDown for /Game/VR_Gallery/UEDPIE_0_VR_Gallery
+[2020.08.25-22.52.52:800][182]LogWorld: UWorld::CleanupWorld for VR_Gallery, bSessionEnded=true, bCleanupResources=true
+[2020.08.25-22.52.52:801][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.52.52:817][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.25-22.52.52:820][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.25-22.52.52:836][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.25-22.52.52:856][182]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BC93C66AC0), frame # 341182
+[2020.08.25-22.52.52:856][182]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BC09D4AC00), frame # 341182
+[2020.08.25-22.52.52:859][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.08.25-22.52.52:912][183]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.08.25-22.52.58:058][599]LogEditorViewport: Clicking Background
+[2020.08.25-22.53.02:203][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.08.25-22.53.02:263][ 37]LogSavePackage: Moving '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Saved/MainMenu_LevelA6A44F7D489962DBE36E6081B93671DE.tmp' to '../../../../../../Users/bsanchez76/Documents/GitHub/RMCAD_VRGallery/Content/VR_Gallery/MainMenu_Level.umap'
+[2020.08.25-22.53.02:313][ 37]AssetCheck: New page: Asset Save: MainMenu_Level
+[2020.08.25-22.53.02:313][ 37]LogContentValidation: Display: Validating World /Game/VR_Gallery/MainMenu_Level.MainMenu_Level
+[2020.08.25-22.53.03:789][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
